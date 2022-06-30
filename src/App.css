@@ -1,0 +1,110 @@
+.aaa{
+  
+  
+  margin-bottom: 30px;
+  
+
+}
+.www{
+  display: flex;
+  
+ margin-left: 30px;
+list-style: none; 
+
+}
+.www:hover{
+  cursor: pointer;
+  
+  color: #ad145a;
+}
+.poo{
+  display: flex;
+  
+  margin-bottom: 50px;
+  margin-right: 70px;
+  
+}
+.but{
+  background-color: blanchedalmond;
+margin-right: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+
+.into{
+ margin-right: 30px;
+  height: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+  width: 200px;
+}
+.ko{
+  margin-top: 16px;
+  margin-left: 100px;
+}
+.img{
+  margin-left: 20px;
+
+}
+.img:hover{
+  cursor: pointer;
+}
+.imagg{
+  width: 200px;
+  border: 1px solid black;
+}
+.im{
+  width: 50px;
+  margin-bottom: 40px;
+}
+.hh{
+  display: flex;
+ 
+}
+.uu{
+  margin-left: 150px;
+}
+.navbar{
+  display: flex;
+  
+}
+.lll{
+  display: flex;
+}
+.mb{
+  display: flex;
+ 
+  
+}
+.mn{
+  margin-left: 100px;
+ 
+}
+.tn{
+  width: 400px;
+  margin-left: 30px;
+  color: #ad145a;
+  height: 30px;
+}
+.tn:hover{
+ background-color: #ad145a;
+ color: white; 
+ 
+  cursor: pointer;
+
+}
+.mainbox{
+  border: 2px solid black;
+  width: 460px;
+}
+.mainbox:hover{
+  cursor: pointer;
+}
+.yoyo{
+  display: flex;
+  
+}
+.fix{
+width: 70%;
+}
